@@ -5,25 +5,67 @@ import HomeView from '../views/HomeView.vue'
 Vue.use(VueRouter)
 
 const routes = [
+ 
   {
     path: '/',
     name: 'home',
     component: HomeView
   },
   {
-    path: '/about',
-    name: 'about',
-    // route level code-splitting
-    // this generates a separate chunk (about.[hash].js) for this route
-    // which is lazy-loaded when the route is visited.
+    path: '/contactus',
+    name: 'contactus',
     component: function () {
-      return import(/* webpackChunkName: "about" */ '../views/AboutView.vue')
+      return import(/* webpackChunkName: "about" */ '../views/ContactUs.vue')
     }
-  }
+  },
+  {
+    path: '/courses',
+    name: 'courses',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/CoursesView.vue')
+    }
+  },
+  {
+    path:'/icourses',
+    name:'icourses',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Icourses.vue')
+    }
+  },
+  {
+    path:'/registration',
+    name:'registration',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Registration.vue')
+    }
+  },
+  {
+    path:'/login',
+    name:'login',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/Login.vue')
+    }
+  },
+  {
+    path:'/log',
+    name:'log',
+    component: function () {
+      return import(/* webpackChunkName: "about" */ '../views/log.vue')
+    }
+  },
 ]
 
-const router = new VueRouter({
+ const router = new VueRouter({
+  mode: 'history',
   routes
-})
+}) 
+/* const router = createRouter({
+  history: createWebHistory(),
+  routes,
+});
+
+app.use(router);
+
+app.mount('#app'); */
 
 export default router

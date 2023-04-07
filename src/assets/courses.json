@@ -1,0 +1,343 @@
+[
+    {
+        "document": {
+            "catalogSortOrder": 486,
+            "catalogtype": "Public",
+            "college": "School of Earth and Space Exploration",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "School of Earth and Space Exploration",
+            "id": "a044x000009TOugAAG",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/psyche101.jpg",
+            "interests": [
+                "Computer Science and Technology"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 0,
+            "program": "Course",
+            "title": "The Process and Lifetime of a Space Mission",
+            "urlPath": "process-and-lifetime-space-mission",
+            "voucher": [
+                "QWALTEC19",
+                "SBUX"
+            ]
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a",
+                    "a"
+                ],
+                "snippet": "The Process <mark>a</mark>nd Lifetime of <mark>a</mark> Space Mission"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 481,
+            "catalogtype": "Public",
+            "college": "College of Health Solutions",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "Addiction Medicine",
+            "id": "a044x000009TQLDAA4",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/AddictionMod.jpeg",
+            "interests": [
+                "Health and Wellness"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 50,
+            "program": "Course",
+            "title": "Taking a Substance Use Disorder (SUD) History",
+            "urlPath": "taking-substance-use-disorder-history",
+            "voucher": []
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a"
+                ],
+                "snippet": "Taking <mark>a</mark> Substance Use Disorder (SUD) History"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 443,
+            "catalogtype": "Public",
+            "college": "School of Earth and Space Exploration",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "School of Earth and Space Exploration",
+            "id": "a044x000009TOsFAAW",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/sese101.jpeg",
+            "interests": [
+                "Computer Science and Technology"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 249,
+            "program": "Course",
+            "title": "Satellite Command and Control: Characteristics of a Space Program",
+            "urlPath": "scc-characteristics-of-space-program",
+            "voucher": [
+                "QWALTEC19",
+                "SDUT",
+                "LATIMES"
+            ]
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a",
+                    "a"
+                ],
+                "snippet": "Satellite Command <mark>a</mark>nd Control: Characteristics of <mark>a</mark> Space Program"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 313,
+            "catalogtype": "Public",
+            "college": "Global Launch",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "Global Launch Continuing Education",
+            "id": "a044x000009TOrDAAW",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/general-engA.jpeg",
+            "interests": [
+                "Language"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 150,
+            "program": "Course",
+            "title": "Learn English Now! Entry A",
+            "urlPath": "learn-english-now-entry-a",
+            "voucher": []
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "A"
+                ],
+                "snippet": "Learn English Now! Entry <mark>A</mark>"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 235,
+            "catalogtype": "Public",
+            "college": "Leadership and Interdisciplinary Studies (LIS)",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "Leadership and Interdisciplinary Studies (LIS)",
+            "id": "a0Z4x000005J0vGEAS",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/GoodManager.jpeg",
+            "interests": [
+                "Business"
+            ],
+            "length": "20 hours",
+            "modality": "Self-paced",
+            "price": 900,
+            "program": "Certificate",
+            "title": "How to be a Good Manager",
+            "urlPath": "how-to-be-a-good-manager",
+            "voucher": [
+                "ASUALUM2022",
+                "ASUFACULTYSTAFF",
+                "ASUALUM2022"
+            ]
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a"
+                ],
+                "snippet": "How to be <mark>a</mark> Good Manager"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 157,
+            "catalogtype": "Public",
+            "college": "Professional Skills Mastery",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "Professional Skills Mastery",
+            "id": "a044x000009TOq6AAG",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/psm17.jpg",
+            "interests": [
+                "Business"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 149,
+            "program": "Course",
+            "title": "Developing a Professional Work Ethic",
+            "urlPath": "developing-a-professional-work-ethic",
+            "voucher": [
+                "ASUFACULTYSTAFF",
+                "ASUALUM2022"
+            ]
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a"
+                ],
+                "snippet": "Developing <mark>a</mark> Professional Work Ethic"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 101,
+            "catalogtype": "Private",
+            "college": "Addiction Medicine Private Programs",
+            "credential": "Continuing Education Units (CEUs)",
+            "date": "",
+            "department": "Addiction Medicine Private Programs",
+            "id": "a044x000009UJHNAA4",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/AddictionMod.jpeg",
+            "interests": [
+                "Health and Wellness",
+                "Nursing"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 0,
+            "program": "Course",
+            "title": "CME - Taking a Substance Use Disorder (SUD) History",
+            "urlPath": "cme-sud-history",
+            "voucher": []
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a"
+                ],
+                "snippet": "CME - Taking <mark>a</mark> Substance Use Disorder (SUD) History"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 93,
+            "catalogtype": "Private",
+            "college": "Addiction Medicine Private Programs",
+            "credential": "Continuing Education Units (CEUs)",
+            "date": "",
+            "department": "Addiction Medicine Private Programs",
+            "id": "a044x000009UIQ9AAO",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/AddictionMod.jpeg",
+            "interests": [
+                "Health and Wellness",
+                "Nursing"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 0,
+            "program": "Course",
+            "title": "CME - Addiction as a Chronic Disease",
+            "urlPath": "cme-addiction-chronic-disease",
+            "voucher": []
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a"
+                ],
+                "snippet": "CME - Addiction as <mark>a</mark> Chronic Disease"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 66,
+            "catalogtype": "Public",
+            "college": "Professional Skills Mastery",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "Professional Skills Mastery",
+            "id": "a044x000009TOpJAAW",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/psm8.jpg",
+            "interests": [
+                "Business"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 149,
+            "program": "Course",
+            "title": "Being a Team Leader",
+            "urlPath": "being-a-team-leader",
+            "voucher": [
+                "ASUFACULTYSTAFF",
+                "ASUALUM2022"
+            ]
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a"
+                ],
+                "snippet": "Being <mark>a</mark> Team Leader"
+            }
+        ],
+        "text_match": 282583068049409
+    },
+    {
+        "document": {
+            "catalogSortOrder": 34,
+            "catalogtype": "Public",
+            "college": "College of Health Solutions",
+            "credential": "Digital badge",
+            "date": "",
+            "department": "Addiction Medicine",
+            "id": "a044x000009TQKUAA4",
+            "imgName": "https://assets.ea.asu.edu/CC-Course-Images/AddictionMod.jpeg",
+            "interests": [
+                "Health and Wellness"
+            ],
+            "length": "",
+            "modality": "Self-paced",
+            "price": 50,
+            "program": "Course",
+            "title": "Addiction as a Chronic Disease",
+            "urlPath": "addiction-as-a-chronic-disease",
+            "voucher": []
+        },
+        "highlights": [
+            {
+                "field": "title",
+                "matched_tokens": [
+                    "a"
+                ],
+                "snippet": "Addiction as <mark>a</mark> Chronic Disease"
+            }
+        ],
+        "text_match": 282583068049409
+    }
+]
